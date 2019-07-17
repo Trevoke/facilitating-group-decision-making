@@ -17,30 +17,47 @@
 #+REVEAL_THEME: solarized
 #+REVEAL_ROOT: ./reveal.js-3.8.0
 
-* Disclaimer: read this book
-The Facilitator's Guide to Participatory Decision-Making
-
-* A framework for thinking about decision-making
-- types of
-- ty
-* Conversations
-** Conversations are basically one of two types
-- Convergent
-- Divergent
-** Every group decision follows a simple pattern
-- Diverge
-- Groan zone™
-- Converge
+* TLDS: read this book
+[[./img/book-cover.jpg]]
+* Outline
+- Framework for group decision-making
+- Example: a retrospective
+- Role of facilitator
+* A framework for thinking about group decision-making
+- values to uphold
+- types of conversations
+** The framework
+#+ATTR_HTML: :width 75% :height 75%
+[[./img/diamond.jpg]]
 ** Groan zone™
+A time to align and to allow group-based ideas to emerge
 ** Each step takes as long as it needs to
-Trying to shorten a step or skip one always leads to trouble
+Trying to shorten or skip a step can lead to trouble
+
+/Participatory/ means anyone can call for closure, must get group agreement to move forward.
 ** You can make steps more effective by choosing the appropriate exercise
+[[./img/book-cover.jpg]]
 * A familiar example: a retrospective
-** Idea generation (divergent)
-** Grouping (convergent)
-** Voting (convergent)
-** Conditions exploration (divergent)
-** Action item generation (convergent)
+- Event generation
+- Finding themes
+- Choosing topic
+- Exploring conditions
+- Making decision(s)
+** Event generation
+- divergent
+- usual exercise: individual writing
+** Finding themes
+ - convergent
+ - usual exercise: affinity mapping
+** Choosing topic
+- convergent
+- usual exercise: dot-voting
+** Exploring conditions
+- emergent
+- usual exercise: mind-map
+** Making decisions
+- convergent
+- usual exercise: action item generation
 * The role of facilitator
 ** Help the group get to its goal
 
@@ -50,3 +67,25 @@ It doesn't have to be a hat.
 You are not a part of the conversation.
 ** You're here to hold space
 Holding space means to be with someone without judgment. To donate your ears and heart without wanting anything back. To practice empathy and compassion.
+
+** Okay but concretely?
+- Manage the tensions of the conversations
+- Be cognizant of the time
+- Give only as much information as you need to
+- Allow everyone to be involved
+- Be ready for emotions to surface
+- Allow the team to come to its own decisions
+* conclusion
+read the book - Ι have a copy
+* Outline
+- Framework for group decision-making
+- Example: a retrospective
+- Role of facilitator
+* Q&A Time
+[[https://media.giphy.com/media/26FKXpZreYLyEd6dG/giphy.gif]]
+* kkthxbai
+Happy to facilitate conversations!
+
+Happy to teach / mentor on how to facilitate conversations!
+
+Send flames to /dev/null
