@@ -16,6 +16,7 @@
 # ======= Settings ================================
 #+REVEAL_THEME: solarized
 #+REVEAL_ROOT: ./reveal.js-3.8.0
+#+REVEAL_EXTRA_CSS: ./local.css
 
 * TLDS: read this book
 [[./img/book-cover.jpg]]
@@ -23,26 +24,57 @@
 - Framework for group decision-making
 - Example: a retrospective
 - Role of facilitator
+* Problem statement
+We're in a state of constant discovery. We act creatively.
+
+Sometimes we must act creatively as a group.
+* The creative process
+[[./img/creative-triple-diamond.png]]
 * A framework for thinking about group decision-making
-- values to uphold
+- values we uphold
 - types of conversations
+** Values
+- Full Participation
+- Mutual Understanding
+- Inclusive Solution
+- Shared Responsibilities
 ** The framework
 #+ATTR_HTML: :width 75% :height 75%
-[[./img/diamond.jpg]]
+[[./img/diamond-plain.gif]]
 ** Groan zone™
 A time to align and to allow group-based ideas to emerge
 ** Each step takes as long as it needs to
-Trying to shorten or skip a step can lead to trouble
+Trying to shorten or skip a step can cause participants to disconnect and stop sharing responsibility for success
 
 /Participatory/ means anyone can call for closure, must get group agreement to move forward.
 ** You can make steps more effective by choosing the appropriate exercise
 [[./img/book-cover.jpg]]
+** Exercise examples
+** Ways to list ideas
+- brainstorming
+- multi-topic, multi-station
+** Structured go-arounds
+- Toss the beanbag
+- Seven words or less
+** Reframing
+- reversing assumptions
+- catastrophizing
+* Applications of the diamond
+** Stand-up
+[[./img/diamond-standup.svg]]
+** Retro
+[[./img/diamond-retro.png]]
+** Idea density in process
+#+ATTR_HTML: :width 80% :height 80%
+[[./img/diamond-ideas.png]]
+** Sustainable agreements
+[[./img/diamond-agreements.jpg]]
 * A familiar example: a retrospective
 - Event generation
 - Finding themes
 - Choosing topic
 - Exploring conditions
-- Making decision(s)
+- Making decisions
 ** Event generation
 - divergent
 - usual exercise: individual writing
@@ -66,21 +98,27 @@ It doesn't have to be a hat.
 
 You are not a part of the conversation.
 ** You're here to hold space
-Holding space means to be with someone without judgment. To donate your ears and heart without wanting anything back. To practice empathy and compassion.
+Everyone in the group needs to be comfortable with participating.
 
+This is on YOU.
 ** Okay but concretely?
 - Manage the tensions of the conversations
 - Be cognizant of the time
 - Give only as much information as you need to
 - Allow everyone to be involved
 - Be ready for emotions to surface
-- Allow the team to come to its own decisions
-* conclusion
-read the book - Ι have a copy
-* Outline
+- Allow the group to come to its own decisions
+* In summary
 - Framework for group decision-making
 - Example: a retrospective
 - Role of facilitator
+* Other things the book covers
+- making agendas
+- breaking into small groups
+- classic facilitator challenges, e.g. highly verbal team members, distractions, goofing around
+- making sustainable agreements
+- working through the groan zone
+- making clear decision rules
 * Q&A Time
 [[https://media.giphy.com/media/26FKXpZreYLyEd6dG/giphy.gif]]
 * kkthxbai
