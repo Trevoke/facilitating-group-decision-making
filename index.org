@@ -62,13 +62,13 @@ Trying to shorten or skip a step can cause participants to disconnect and stop s
 * Applications of the diamond
 ** Stand-up
 [[./img/diamond-standup.svg]]
-** Retro
-[[./img/diamond-retro.png]]
 ** Idea density in process
 #+ATTR_HTML: :width 80% :height 80%
 [[./img/diamond-ideas.png]]
 ** Sustainable agreements
 [[./img/diamond-agreements.jpg]]
+** Retro
+[[./img/diamond-retro.png]]
 * A familiar example: a retrospective
 - Event generation
 - Finding themes
